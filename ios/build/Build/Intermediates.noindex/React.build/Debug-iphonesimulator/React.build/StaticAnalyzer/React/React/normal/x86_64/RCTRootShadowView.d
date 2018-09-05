@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Views/RCTRootShadowView.m \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Views/RCTRootShadowView.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/React/Views/RCTShadowView+Layout.h

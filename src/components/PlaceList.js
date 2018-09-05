@@ -1,16 +1,16 @@
 import React from 'react';
-import { View, StyleSheet } from 'react-native';
+import { StyleSheet, ScrollView } from 'react-native';
 import PropTypes from 'prop-types';
 import ListItem from './ListItem';
 
 const placeList = props => {
   const placesOutput = props.places.map((place, i) => (
-    <ListItem key={i} placeName={place} onItemPressed={() => alert('Item pressed - ID: ' + i)} />
+    <ListItem key={i} placeName={place} onItemPressed={() => props.onItemDeleted(i)} />
     ));
     return (
-      <View style={styles.listContainer}>
+      <ScrollView style={styles.listContainer}>
         {placesOutput}
-      </View>
+      </ScrollView>
     );
 };
 
@@ -21,7 +21,8 @@ const styles = StyleSheet.create({
 })
 
 placeList.propTypes = {
-  places: PropTypes.instanceOf(Array).isRequired
+  places: PropTypes.instanceOf(Array).isRequired,
+  onItemDeleted: PropTypes.func.isRequired,
 }
 
 export default placeList;

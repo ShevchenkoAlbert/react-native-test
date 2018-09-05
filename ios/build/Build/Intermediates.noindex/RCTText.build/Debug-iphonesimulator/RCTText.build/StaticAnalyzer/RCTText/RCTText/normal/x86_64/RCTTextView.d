@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/AlbertShevchenko/Desktop/Work/react-native-test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

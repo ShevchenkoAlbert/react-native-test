@@ -6,6 +6,7 @@ import {
 
 import PlaceList from './src/components/PlaceList';
 import PlaceInput from './src/components/PlaceInput';
+import PlaceDetail from './src/components/PlaceDetail';
 
 export default class App extends Component {
   state = {
@@ -24,12 +25,23 @@ export default class App extends Component {
     });
   };
 
+  placeDeletedHandler = index => {
+    this.setState(prevState => {
+      return {
+        places: prevState.places.filter((place, i) => {
+          return i !== index;
+        })
+      }
+    })
+  }
+
   render() {
     const { places } = this.state;
     return (
       <View style={styles.container}>
+        <PlaceDetail />
         <PlaceInput onPlaceAdded={this.placeAddedHandler} />
-        <PlaceList places={places} />
+        <PlaceList places={places} onItemDeleted={this.placeDeletedHandler} />
       </View>
     );
   }
