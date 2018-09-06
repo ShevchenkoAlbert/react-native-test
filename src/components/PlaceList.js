@@ -4,8 +4,13 @@ import PropTypes from 'prop-types';
 import ListItem from './ListItem';
 
 const placeList = props => {
-  const placesOutput = props.places.map((place, i) => (
-    <ListItem key={i} placeName={place} onItemPressed={() => props.onItemDeleted(i)} />
+  const placesOutput = props.places.map(place => (
+    <ListItem
+      key={place.key}
+      placeName={place.name}
+      placeImage={place.image}
+      onItemPressed={() => props.onItemSelected(place.key)}
+      />
     ));
     return (
       <ScrollView style={styles.listContainer}>
@@ -22,7 +27,7 @@ const styles = StyleSheet.create({
 
 placeList.propTypes = {
   places: PropTypes.instanceOf(Array).isRequired,
-  onItemDeleted: PropTypes.func.isRequired,
+  onItemSelected: PropTypes.func.isRequired,
 }
 
 export default placeList;

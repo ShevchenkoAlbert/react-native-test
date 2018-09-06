@@ -30,11 +30,12 @@ class PlaceInput extends Component {
           onChangeText={this.placeNameChangedHandler}
           style={styles.placeInput}
         />
+        <View style={styles.placeButton}>
         <Button
           title="Add"
-          style={styles.placeButton}
           onPress={this.placeSubmitHandler}
         />
+        </View>
       </View>
     );
   }
@@ -51,7 +52,7 @@ const styles = StyleSheet.create({
     width: "70%"
   },
   placeButton: {
-    width: "30%"
+    width: "30%",
   }
 });
 
