@@ -4,15 +4,8 @@
             "outputFile": "/home/NIX/shevchenkoalbert/course/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b12fb4554b60a0762b923ebf7655b597/res/values-port/values-port.xml",
+                    "source": "/home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0314621fef176b854f64ef8585b339aa/res/values-port/values-port.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "280",
-                        "endColumns": "55",
-                        "endOffsets": "331"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",

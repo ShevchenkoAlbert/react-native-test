@@ -4,14 +4,29 @@ ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifes
 INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [com.facebook.react:react-native:0.55.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/17cbd8316126d97729c9574c5d618b43/AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b12fb4554b60a0762b923ebf7655b597/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:23.0.1] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/4356b32a62a538e30a10d8c42276dee8/AndroidManifest.xml:17:1-24:12
+MERGED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-vector-icons] /home/NIX/shevchenkoalbert/course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.49.5] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/2ca44aa5558d7f0be68886d9665ef26a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/c94d857737721b5986f941b73121dd64/AndroidManifest.xml:2:1-14:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/b1f27a07752e9601aed02ea60a039a76/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/7a993567b9ddb79c79621fe3bea7425c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0314621fef176b854f64ef8585b339aa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/d1b3b59934134dfb09607a0614e182c8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3a297f06d7aa3dd5fc0b8565ad93c32b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/c7976d7dd552327c40fee8fea3eab48f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/473b3ccdefc769a6fe64f97e279b6ede/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/e025e6d91687bb585348a8b55226d1c1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/4f8cbdc1209a0a3d826be33923f3c6d3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/22fbc74d0ac9781c89e283c7bcf8e209/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/9944621b583c7f37bda0ed7daf068c1e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e2b182b9c5995732b49abb53a148fbfa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/cb44aee9e72eb098ffc9b596588ac7f7/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/12cd84650f0d892e8150f556a7008dec/AndroidManifest.xml:10:1-18:12
 MERGED from [com.facebook.fresco:fresco:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/a8305c5d466d1d26c5c3592a7d7e360c/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e5ef53bb5db825b325af8161bdb39277/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.1.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/595501d3a143d2449d66ec205c9b5ec6/AndroidManifest.xml:1:1-4:12
 MERGED from [org.webkit:android-jsc:r174650] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d057487b40c34c5e51953ad38cce6ff6/AndroidManifest.xml:1:1-3:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/953ca87f343ae5ca276b24e9c4f46a5b/AndroidManifest.xml:2:1-14:12
 MERGED from [com.facebook.fresco:drawee:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/2cbcf9f49ec109dbed5a27718909a7de/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/ef651b4cf1dce8a0b79b2ee97c8e35d4/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/6501b161c0a68b7e143b7937acd63061/AndroidManifest.xml:2:1-9:12
@@ -39,22 +54,50 @@ ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifes
 		ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/17cbd8316126d97729c9574c5d618b43/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.55.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/17cbd8316126d97729c9574c5d618b43/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.49.5] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/2ca44aa5558d7f0be68886d9665ef26a/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.49.5] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/2ca44aa5558d7f0be68886d9665ef26a/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:5:22-75
 application
 ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.55.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/17cbd8316126d97729c9574c5d618b43/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.55.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/17cbd8316126d97729c9574c5d618b43/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b12fb4554b60a0762b923ebf7655b597/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b12fb4554b60a0762b923ebf7655b597/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/4356b32a62a538e30a10d8c42276dee8/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/4356b32a62a538e30a10d8c42276dee8/AndroidManifest.xml:22:5-20
+MERGED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.49.5] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/2ca44aa5558d7f0be68886d9665ef26a/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.49.5] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/2ca44aa5558d7f0be68886d9665ef26a/AndroidManifest.xml:13:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/c94d857737721b5986f941b73121dd64/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/c94d857737721b5986f941b73121dd64/AndroidManifest.xml:12:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/b1f27a07752e9601aed02ea60a039a76/AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/b1f27a07752e9601aed02ea60a039a76/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/7a993567b9ddb79c79621fe3bea7425c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/7a993567b9ddb79c79621fe3bea7425c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0314621fef176b854f64ef8585b339aa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0314621fef176b854f64ef8585b339aa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/d1b3b59934134dfb09607a0614e182c8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/d1b3b59934134dfb09607a0614e182c8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3a297f06d7aa3dd5fc0b8565ad93c32b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3a297f06d7aa3dd5fc0b8565ad93c32b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/c7976d7dd552327c40fee8fea3eab48f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/c7976d7dd552327c40fee8fea3eab48f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/473b3ccdefc769a6fe64f97e279b6ede/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/473b3ccdefc769a6fe64f97e279b6ede/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/e025e6d91687bb585348a8b55226d1c1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/e025e6d91687bb585348a8b55226d1c1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/4f8cbdc1209a0a3d826be33923f3c6d3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/4f8cbdc1209a0a3d826be33923f3c6d3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/22fbc74d0ac9781c89e283c7bcf8e209/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/22fbc74d0ac9781c89e283c7bcf8e209/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/9944621b583c7f37bda0ed7daf068c1e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/9944621b583c7f37bda0ed7daf068c1e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e2b182b9c5995732b49abb53a148fbfa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e2b182b9c5995732b49abb53a148fbfa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/cb44aee9e72eb098ffc9b596588ac7f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/cb44aee9e72eb098ffc9b596588ac7f7/AndroidManifest.xml:25:5-29:19
 MERGED from [com.facebook.soloader:soloader:0.1.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/595501d3a143d2449d66ec205c9b5ec6/AndroidManifest.xml:3:3-17
 MERGED from [com.facebook.soloader:soloader:0.1.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/595501d3a143d2449d66ec205c9b5ec6/AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d057487b40c34c5e51953ad38cce6ff6/AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d057487b40c34c5e51953ad38cce6ff6/AndroidManifest.xml:2:3-17
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/953ca87f343ae5ca276b24e9c4f46a5b/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/953ca87f343ae5ca276b24e9c4f46a5b/AndroidManifest.xml:12:5-20
 	android:label
 		ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:9:7-39
 	android:icon
@@ -87,18 +130,50 @@ ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifes
 		ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:23:7-84
+MERGED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-37
 	android:name
 		ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
 INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.react:react-native:0.55.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/17cbd8316126d97729c9574c5d618b43/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/17cbd8316126d97729c9574c5d618b43/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b12fb4554b60a0762b923ebf7655b597/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/b12fb4554b60a0762b923ebf7655b597/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/4356b32a62a538e30a10d8c42276dee8/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/4356b32a62a538e30a10d8c42276dee8/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/NIX/shevchenkoalbert/course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/NIX/shevchenkoalbert/course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.49.5] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/2ca44aa5558d7f0be68886d9665ef26a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.49.5] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/react-native-0.49.5.aar/2ca44aa5558d7f0be68886d9665ef26a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/c94d857737721b5986f941b73121dd64/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/c94d857737721b5986f941b73121dd64/AndroidManifest.xml:8:5-10:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/b1f27a07752e9601aed02ea60a039a76/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/b1f27a07752e9601aed02ea60a039a76/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/7a993567b9ddb79c79621fe3bea7425c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/7a993567b9ddb79c79621fe3bea7425c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0314621fef176b854f64ef8585b339aa/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0314621fef176b854f64ef8585b339aa/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/d1b3b59934134dfb09607a0614e182c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/d1b3b59934134dfb09607a0614e182c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3a297f06d7aa3dd5fc0b8565ad93c32b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3a297f06d7aa3dd5fc0b8565ad93c32b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/c7976d7dd552327c40fee8fea3eab48f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/c7976d7dd552327c40fee8fea3eab48f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/473b3ccdefc769a6fe64f97e279b6ede/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/473b3ccdefc769a6fe64f97e279b6ede/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/e025e6d91687bb585348a8b55226d1c1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/e025e6d91687bb585348a8b55226d1c1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/4f8cbdc1209a0a3d826be33923f3c6d3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/4f8cbdc1209a0a3d826be33923f3c6d3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/22fbc74d0ac9781c89e283c7bcf8e209/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/22fbc74d0ac9781c89e283c7bcf8e209/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/9944621b583c7f37bda0ed7daf068c1e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/9944621b583c7f37bda0ed7daf068c1e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e2b182b9c5995732b49abb53a148fbfa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e2b182b9c5995732b49abb53a148fbfa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/cb44aee9e72eb098ffc9b596588ac7f7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/cb44aee9e72eb098ffc9b596588ac7f7/AndroidManifest.xml:21:5-23:58
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/12cd84650f0d892e8150f556a7008dec/AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/12cd84650f0d892e8150f556a7008dec/AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/a8305c5d466d1d26c5c3592a7d7e360c/AndroidManifest.xml:5:5-7:41
@@ -107,6 +182,8 @@ MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/NIX/shevchen
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/e5ef53bb5db825b325af8161bdb39277/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.1.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/595501d3a143d2449d66ec205c9b5ec6/AndroidManifest.xml:2:3-70
 MERGED from [com.facebook.soloader:soloader:0.1.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/595501d3a143d2449d66ec205c9b5ec6/AndroidManifest.xml:2:3-70
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/953ca87f343ae5ca276b24e9c4f46a5b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/953ca87f343ae5ca276b24e9c4f46a5b/AndroidManifest.xml:8:5-10:41
 MERGED from [com.facebook.fresco:drawee:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/2cbcf9f49ec109dbed5a27718909a7de/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/2cbcf9f49ec109dbed5a27718909a7de/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/ef651b4cf1dce8a0b79b2ee97c8e35d4/AndroidManifest.xml:5:5-7:41
@@ -117,6 +194,8 @@ MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/NIX/shevchenkoalbert/.gradl
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/a7c7f0516f369ac6a97567a83fee3796/AndroidManifest.xml:5:5-7:41
 INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/7a993567b9ddb79c79621fe3bea7425c/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml
 		ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml
@@ -125,6 +204,40 @@ INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidMani
 		INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml
 		ADDED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] /home/NIX/shevchenkoalbert/course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/7a993567b9ddb79c79621fe3bea7425c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0314621fef176b854f64ef8585b339aa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0314621fef176b854f64ef8585b339aa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/d1b3b59934134dfb09607a0614e182c8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/d1b3b59934134dfb09607a0614e182c8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3a297f06d7aa3dd5fc0b8565ad93c32b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/3a297f06d7aa3dd5fc0b8565ad93c32b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/c7976d7dd552327c40fee8fea3eab48f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/c7976d7dd552327c40fee8fea3eab48f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/473b3ccdefc769a6fe64f97e279b6ede/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/473b3ccdefc769a6fe64f97e279b6ede/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/e025e6d91687bb585348a8b55226d1c1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/e025e6d91687bb585348a8b55226d1c1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/4f8cbdc1209a0a3d826be33923f3c6d3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/4f8cbdc1209a0a3d826be33923f3c6d3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/22fbc74d0ac9781c89e283c7bcf8e209/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/22fbc74d0ac9781c89e283c7bcf8e209/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/9944621b583c7f37bda0ed7daf068c1e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/9944621b583c7f37bda0ed7daf068c1e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e2b182b9c5995732b49abb53a148fbfa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e2b182b9c5995732b49abb53a148fbfa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/cb44aee9e72eb098ffc9b596588ac7f7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/cb44aee9e72eb098ffc9b596588ac7f7/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/7a993567b9ddb79c79621fe3bea7425c/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:25.4.0] /home/NIX/shevchenkoalbert/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/7a993567b9ddb79c79621fe3bea7425c/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /home/NIX/shevchenkoalbert/course/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
