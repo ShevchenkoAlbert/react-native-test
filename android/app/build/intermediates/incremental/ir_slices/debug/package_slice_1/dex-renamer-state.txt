@@ -1,4 +1,4 @@
-#Wed Sep 19 12:11:54 EEST 2018
-base.0=/home/NIX/shevchenkoalbert/course/android/app/build/intermediates/transforms/dexMerger/debug/172
+#Wed Sep 19 15:55:25 EEST 2018
+base.0=/home/NIX/shevchenkoalbert/course/android/app/build/intermediates/transforms/dexMerger/debug/206
 path.0=classes.dex
 renamed.0=classes.dex
