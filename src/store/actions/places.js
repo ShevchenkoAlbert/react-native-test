@@ -6,15 +6,15 @@ export const addPlace = (placeName, location, image) => {
             name: placeName,
             location: location
         };
-        fetch("https://course-5f255.firebaseio.com/places.json", {
-            method: "POST",
-            body: JSON.stringify(placeData)
-        })
-        .catch(err => console.log(err))
-        .then(res => res.json())
-        .then(parsedRes => {
-            console.log(parsedRes);
-        });
+        // fetch("https://course-5f255.firebaseio.com/places.json", {
+        //     method: "POST",
+        //     body: JSON.stringify(placeData)
+        // })
+        // .catch(err => console.log(err))
+        // .then(res => res.json())
+        // .then(parsedRes => {
+        //     console.log(parsedRes);
+        // });
     };
 };
 
